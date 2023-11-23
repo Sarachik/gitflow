@@ -1,0 +1,36 @@
+Index: listSarachik.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/listSarachik.txt b/listSarachik.txt
+new file mode 100644
+--- /dev/null	(date 1700751413039)
++++ b/listSarachik.txt	(date 1700751413039)
+@@ -0,0 +1,1 @@
++Борисов Дмитрий Алексеевич
+\ No newline at end of file
+Index: schoolSarachik
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/schoolSarachik b/schoolSarachik
+new file mode 100644
+--- /dev/null	(date 1700751413022)
++++ b/schoolSarachik	(date 1700751413022)
+@@ -0,0 +1,1 @@
++МБОУ ВСОШ №2
+\ No newline at end of file
+Index: YourNameSchool.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/YourNameSchool.txt b/YourNameSchool.txt
+new file mode 100644
+--- /dev/null	(date 1700751404123)
++++ b/YourNameSchool.txt	(date 1700751404123)
+@@ -0,0 +1,1 @@
++МБОУ ВСОШ №2
+\ No newline at end of file
